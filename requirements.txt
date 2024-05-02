@@ -5,5 +5,5 @@ scipy
 python_speech_features
 matplotlib
 numpy
-SoundFile
+SoundFile==0.10.3.post1
 scikit_learn
